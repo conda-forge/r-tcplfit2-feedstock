@@ -1,11 +1,11 @@
-About r-tcplfit2
-================
+About r-tcplfit2-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-tcplfit2-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=tcplfit2
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-tcplfit2-feedstock/blob/main/LICENSE.txt)
 
 Summary: Performs the basic concentration response curve fitting used in the 'tcpl' package. It is a substitute for the original tcplFit() function (and sub-functions) and allows a wider variety of concentration-response models. All of the models included in the 'BMDExpress' package are now part of this package, and the output includes a calculation of the bmd (Benchmark Dose or concentration) value.
 
