@@ -25,16 +25,16 @@ requirements:
   host:
     - r-base
     - r-rcolorbrewer
-    - r-future
-    - r-future.apply
+    - r-ggplot2
     - r-numderiv
+    - r-reshape2
     - r-stringr
   run:
     - r-base
     - r-rcolorbrewer
-    - r-future
-    - r-future.apply
+    - r-ggplot2
     - r-numderiv
+    - r-reshape2
     - r-stringr
 
 test:
