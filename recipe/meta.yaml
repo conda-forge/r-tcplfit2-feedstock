@@ -1,4 +1,4 @@
-{% set version = "0.1.8" %}
+{% set version = "0.1.9" %}
 {% set posix = 'm2-' if win else '' %}
 
 package:
@@ -9,7 +9,7 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/tcplfit2_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/tcplfit2/tcplfit2_{{ version }}.tar.gz
-  sha256: f0a5496929f3e096ea4659a82c3f98315e9ceb8f83ffec79c9a552beb313bd89
+  sha256: b1d851979f54783f38799c7d751d391bb27606b7904234be73f4c7d4153480b2
 
 build:
   number: 0
